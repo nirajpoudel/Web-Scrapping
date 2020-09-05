@@ -19,7 +19,13 @@ In the next file name `urlsLoop.py` the information is extracted in the form of 
 
 The screenshot of the code is attached below.
 
-<img src = "https://user-images.githubusercontent.com/59787504/92299962-bb8d4b00-ef76-11ea-859b-1ae68e43c5f0.png">
+<img src = "https://user-images.githubusercontent.com/59787504/92299962-bb8d4b00-ef76-11ea-859b-1ae68e43c5f0.png" height = "350" width = "350">
+
+if you want to dip dive and want to scrap individual word and the words next to it then you can try with the file `OnlyTelephone`. There I have scrapped the text from the site and split it in a differnt word and separated with the need.Mainly I have scrapped phone numbers. Security is a fuckin lie these days😂
+
+<img src = "https://user-images.githubusercontent.com/59787504/92304886-d5905300-efa1-11ea-9c0f-0cca9cc90cd2.gif">
+
+
   
 
    
