@@ -6,13 +6,19 @@ This is a simple web scrapping project based on typing the random number in the 
 
 Step 1: Clone the repository.
 
-`git clone`
+`git clone https://github.com/nirajpoudel18/Web-Scrapping.git`
 
 Step 2: Install the requirements
 
 `pip install -m requirements.txt`
 
-
+if anything goes wrong installing the requirements follow these versions.
+   ``` 
+   python 3.6
+   selenium 3.141.0
+   chrome version 85.0.4183.83
+   ```
+   
 In the file named `CdriverWhile.py` the information is directly extracted with in a suitable data format.
 
  
@@ -20,11 +26,7 @@ In the file named `CdriverWhile.py` the information is directly extracted with i
 <img src="https://user-images.githubusercontent.com/59787504/92299382-80d4e400-ef71-11ea-95b2-4428e676c0f2.gif">
 
 
-   ``` 
-   python 3.6
-   selenium 3.141.0
-   chrome version 85.0.4183.83
-   ```
+
 In the next file name `urlsLoop.py` the information is extracted in the form of json format.
 
 <img src = "https://user-images.githubusercontent.com/59787504/92299984-ea0b2600-ef76-11ea-9c75-505719f0da6a.gif">
