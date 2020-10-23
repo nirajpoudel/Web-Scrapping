@@ -1,12 +1,25 @@
 # Web-Scrapping
 
-This is a simple web scrapping project based on typing the random number in the search box and looping it with clicking the button using selenium. The extracted information from the website is stored in the text file. The information is extracted in the table format. In the file named `CdriverWhile.py` the information is directly extracted with in a suitable data format.
+This is a simple web scrapping project based on typing the random number in the search box and looping it with clicking the button using selenium. The extracted information from the website is stored in the text file. The information is extracted in the table format. 
+
+## How to use it?
+
+Step 1: Clone the repository.
+
+`git clone`
+
+Step 2: Install the requirements
+
+`pip install -m requirements.txt`
+
+
+In the file named `CdriverWhile.py` the information is directly extracted with in a suitable data format.
 
  
 
 <img src="https://user-images.githubusercontent.com/59787504/92299382-80d4e400-ef71-11ea-95b2-4428e676c0f2.gif">
 
-## Requirements:
+
    ``` 
    python 3.6
    selenium 3.141.0
